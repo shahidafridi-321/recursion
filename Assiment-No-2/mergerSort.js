@@ -1,3 +1,4 @@
+// This Function takes three arguments ,an array,start index of that array and last index of the array.
 
 function mergeSort(array, start, end) {
 	if (start >= end) {
